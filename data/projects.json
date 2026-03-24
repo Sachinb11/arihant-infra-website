@@ -1,0 +1,181 @@
+[
+  {
+    "slug": "radhakrishna-apartments",
+    "title": "RadhaKrishna Apt.",
+    "subtitle": "Where Living is Enjoyment",
+    "status": "ongoing",
+    "type": "Residential",
+    "location": "Palghar (East), Maharashtra – 401404",
+    "address": "Plot No. 8, Dholvira Navli Road, Near Sai Baba Temple, Palghar (East) – 401404",
+    "rera": "P99000051839",
+    "shortDescription": "Premium G+7 residential building offering meticulously designed 1BHK and 2BHK homes in the heart of Palghar East.",
+    "description": "RadhaKrishna Apt. by Arihant Infra is a landmark G+7 storey residential building offering premium 1BHK and 2BHK homes in the heart of Palghar (East). Every specification, every finish — chosen for lasting quality and refined living.\n\nStrategically positioned near the railway station with full Palghar Municipal Council sanction, major bank loan approvals, and RCC earthquake-resistant construction — this is a home that's built on trust.\n\nThe building features two retail shops on the ground floor, providing residents with convenient access to daily services. From the 1st floor upwards, each level is dedicated to premium residential units, with panoramic views growing more spectacular with every floor.",
+    "image": "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?w=1200&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?w=1200&q=85",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=85",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1200&q=85",
+      "https://images.unsplash.com/photo-1503174971373-b1f69850bded?w=1200&q=85",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=85",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=85"
+    ],
+    "amenities": [
+      { "icon": "tiles", "title": "Designer Vitrified Tiles", "desc": "Premium large-format vitrified tiles across all living areas and bedrooms." },
+      { "icon": "kitchen", "title": "Granite Kitchen Platform", "desc": "Polished granite countertops — heat resistant and stain resistant." },
+      { "icon": "elevator", "title": "Branded Lifts", "desc": "High-speed branded passenger lifts ensuring seamless vertical access." },
+      { "icon": "bolt", "title": "Concealed Wiring & Plumbing", "desc": "ISI-certified concealed electrical wiring and CP fittings." },
+      { "icon": "shower", "title": "Premium Bathroom Fittings", "desc": "Chrome-finished bathroom fittings from top brands." },
+      { "icon": "shield", "title": "Video Door Security", "desc": "Advanced video door phone system for all visitors." },
+      { "icon": "earthquake", "title": "Earthquake Resistant", "desc": "RCC framed structure built to IS seismic standards." },
+      { "icon": "bank", "title": "Bank Loans Available", "desc": "SBI, HDFC, ICICI & all major banks approved." }
+    ],
+    "highlights": [
+      "G+7 Storey Building",
+      "1BHK & 2BHK Options",
+      "PMC Approved",
+      "Near Railway Station",
+      "MahaRERA Registered"
+    ],
+    "configurations": [
+      { "type": "1BHK", "carpet": "450–550 sq.ft", "price": "On Request" },
+      { "type": "2BHK", "carpet": "700–900 sq.ft", "price": "On Request" },
+      { "type": "Shop (GF)", "carpet": "450–480 sq.ft", "price": "On Request" }
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30097!2d72.7374!3d19.6972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be71c8c48e4e7d5%3A0xa17ddd6e1c2db20d!2sPalghar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1700000000000",
+    "architect": "Pranav Deshmukh",
+    "legalAdvisor": "Adv. Nevil Chheda",
+    "completionYear": "2025",
+    "totalFloors": 7,
+    "featured": true
+  },
+  {
+    "slug": "arihant-residency",
+    "title": "Arihant Residency",
+    "subtitle": "Timeless Homes for Modern Families",
+    "status": "completed",
+    "type": "Residential",
+    "location": "Palghar, Maharashtra",
+    "address": "Survey No. 45, Station Road, Palghar – 401404",
+    "rera": "P99000038721",
+    "shortDescription": "A landmark residential complex featuring spacious 1BHK and 2BHK apartments with world-class amenities in central Palghar.",
+    "description": "Arihant Residency stands as a testament to Arihant Infra's commitment to quality and excellence. This completed project delivered 48 premium residential units across 6 floors, each designed with meticulous attention to detail.\n\nLocated on the bustling Station Road, residents enjoy unmatched connectivity — just a 5-minute walk to Palghar Railway Station. The complex features a landscaped garden, children's play area, and dedicated parking for all residents.\n\nAll units were handed over with RERA compliance and within the promised timeline, reflecting our philosophy of putting homebuyers first.",
+    "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1200&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1200&q=85",
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=85",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=85",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=1200&q=85"
+    ],
+    "amenities": [
+      { "icon": "garden", "title": "Landscaped Garden", "desc": "Beautifully maintained garden for evening walks and relaxation." },
+      { "icon": "parking", "title": "Covered Parking", "desc": "Dedicated covered parking for every unit." },
+      { "icon": "security", "title": "24/7 Security", "desc": "Round-the-clock security with CCTV surveillance." },
+      { "icon": "power", "title": "Power Backup", "desc": "Generator backup for common areas and lifts." },
+      { "icon": "elevator", "title": "Passenger Lifts", "desc": "Two high-speed lifts for seamless access." },
+      { "icon": "water", "title": "24-Hour Water Supply", "desc": "Uninterrupted water supply from municipal and borewell sources." }
+    ],
+    "highlights": [
+      "48 Residential Units",
+      "6 Floors",
+      "Fully Handed Over",
+      "Zero Pending Dues",
+      "100% RERA Compliant"
+    ],
+    "configurations": [
+      { "type": "1BHK", "carpet": "430–500 sq.ft", "price": "Sold Out" },
+      { "type": "2BHK", "carpet": "680–850 sq.ft", "price": "Sold Out" }
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30097!2d72.7374!3d19.6972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be71c8c48e4e7d5%3A0xa17ddd6e1c2db20d!2sPalghar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1700000000000",
+    "architect": "Pranav Deshmukh",
+    "legalAdvisor": "Adv. Nevil Chheda",
+    "completionYear": "2022",
+    "totalFloors": 6,
+    "featured": false
+  },
+  {
+    "slug": "krishna-heights",
+    "title": "Krishna Heights",
+    "subtitle": "Elevated Living, Elevated Life",
+    "status": "completed",
+    "type": "Residential",
+    "location": "Manor Road, Palghar, Maharashtra",
+    "address": "Plot No. 12A, Manor Road, Palghar – 401404",
+    "rera": "P99000029854",
+    "shortDescription": "A premium G+5 tower offering beautifully crafted 2BHK apartments with panoramic views and top-tier amenities.",
+    "description": "Krishna Heights was conceived as an urban sanctuary — a place where modern design meets the tranquility of nature. The G+5 structure houses 30 exclusive 2BHK apartments, each offering sweeping views of the Palghar landscape.\n\nThis project was a milestone for Arihant Infra — introducing earthquake-resistant RCC construction, concealed wiring, and branded fixtures as standard across all units, setting a new benchmark for residential construction in the region.\n\nDelivered on schedule and fully compliant with all regulations, Krishna Heights remains a proud jewel in our portfolio.",
+    "image": "https://images.unsplash.com/photo-1460317442991-0ec209397118?w=1200&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1460317442991-0ec209397118?w=1200&q=85",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1200&q=85",
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=1200&q=85",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85"
+    ],
+    "amenities": [
+      { "icon": "view", "title": "Panoramic Views", "desc": "Breathtaking views of the Palghar hillscape from upper floors." },
+      { "icon": "club", "title": "Community Hall", "desc": "Spacious community hall for gatherings and events." },
+      { "icon": "elevator", "title": "Branded Lifts", "desc": "Premium Schindler lifts with smooth operation." },
+      { "icon": "tiles", "title": "Italian Marble Lobby", "desc": "Grand entrance lobby with Italian marble flooring." },
+      { "icon": "terrace", "title": "Terrace Garden", "desc": "Rooftop terrace with landscaping and seating." },
+      { "icon": "security", "title": "Intercom System", "desc": "Building-wide intercom connectivity." }
+    ],
+    "highlights": [
+      "30 Exclusive Units",
+      "G+5 Tower",
+      "Panoramic Views",
+      "Rooftop Terrace",
+      "Fully Handed Over"
+    ],
+    "configurations": [
+      { "type": "2BHK", "carpet": "720–920 sq.ft", "price": "Sold Out" }
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30097!2d72.7374!3d19.6972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be71c8c48e4e7d5%3A0xa17ddd6e1c2db20d!2sPalghar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1700000000000",
+    "architect": "Pranav Deshmukh",
+    "legalAdvisor": "Adv. Nevil Chheda",
+    "completionYear": "2019",
+    "totalFloors": 5,
+    "featured": false
+  },
+  {
+    "slug": "arihant-enclave",
+    "title": "Arihant Enclave",
+    "subtitle": "The First Chapter of Excellence",
+    "status": "completed",
+    "type": "Residential",
+    "location": "Sarpamala Road, Palghar, Maharashtra",
+    "address": "Plot No. 3, Sarpamala Road, Near Bus Stand, Palghar – 401404",
+    "rera": "P99000019203",
+    "shortDescription": "The flagship project that established Arihant Infra's legacy — 24 homes delivered with zero compromise on quality.",
+    "description": "Arihant Enclave is where our story began. This G+4 residential project was the first major development by Arihant Infra, and it set the tone for every project that followed: meticulous quality, transparent dealings, and homes that truly last.\n\nLocated near the Palghar Bus Stand, Arihant Enclave offered affordable yet premium 1BHK homes to first-time homebuyers. The project was fully sold out within 6 months of launch and handed over on schedule.\n\nThe success of Arihant Enclave laid the foundation for our growing legacy in the Palghar real estate market.",
+    "image": "https://images.unsplash.com/photo-1567684014761-b65e2e59b9eb?w=1200&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1567684014761-b65e2e59b9eb?w=1200&q=85",
+      "https://images.unsplash.com/photo-1550581190-9c1c48d21d6c?w=1200&q=85",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=85",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=1200&q=85"
+    ],
+    "amenities": [
+      { "icon": "quality", "title": "ISI Grade Materials", "desc": "All construction materials sourced from ISI-certified suppliers." },
+      { "icon": "vastu", "title": "Vastu Compliant", "desc": "Floor plans designed as per Vastu Shastra principles." },
+      { "icon": "water", "title": "Water Storage", "desc": "Large underground and overhead water tanks." },
+      { "icon": "power", "title": "Power Backup", "desc": "Generator backup for essential services." },
+      { "icon": "gate", "title": "Gated Community", "desc": "Secure gated premises with main gate security." },
+      { "icon": "kids", "title": "Play Area", "desc": "Children's play area within the compound." }
+    ],
+    "highlights": [
+      "24 Residential Units",
+      "G+4 Building",
+      "Vastu Compliant",
+      "Our First Project",
+      "100% Sold & Delivered"
+    ],
+    "configurations": [
+      { "type": "1BHK", "carpet": "410–480 sq.ft", "price": "Sold Out" }
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30097!2d72.7374!3d19.6972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be71c8c48e4e7d5%3A0xa17ddd6e1c2db20d!2sPalghar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1700000000000",
+    "architect": "Pranav Deshmukh",
+    "legalAdvisor": "Adv. Nevil Chheda",
+    "completionYear": "2016",
+    "totalFloors": 4,
+    "featured": false
+  }
+]
